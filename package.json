@@ -1,0 +1,12 @@
+{
+    "family": "lepture",
+    "name": "hello",
+    "version": "1.0.0",
+    "description": "hello spm",
+    "spm": {
+        "alias": {
+            "class": "arale/class/1.0.0/class"
+        },
+        "output": ["hello.js"]
+    }
+}
